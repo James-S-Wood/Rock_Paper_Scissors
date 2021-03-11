@@ -1,7 +1,7 @@
-### Rock, Paper, Scissors
+# Rock, Paper, Scissors
 
-## Created March 11,2021
+#### Created March 11,2021
 
-## James S Wood
+##### James S Wood
 
 ## Design of project
